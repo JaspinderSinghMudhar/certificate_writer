@@ -20,10 +20,8 @@ Run the script (python script_name.py).
 ### Output:
 The script will generate individual PNG image certificates named after each recipient in the abc list with hyphens replacing special characters, located in the output folder.
 
-Font:
-
+### Font:
 The script uses the Poppins-Medium.ttf font file. You can replace this with your desired font by updating the path in the font = ImageFont.truetype line.
 
-Note:
-
+### Note:
 This script is a basic example and can be further customized for different formatting needs.
